@@ -1,0 +1,2 @@
+HostName=IoTHub-SAFHE.azure-devices.net;DeviceId=RaspberryPi3-EdgeOrchestrator;SharedAccessKey=v2TNQLlGjp4mdhXCNKySUSv+5zcf4kO7N/bB5n1vMgM=
+
